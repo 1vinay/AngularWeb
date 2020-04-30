@@ -24,7 +24,7 @@
     "@angular/router": "~8.2.14",
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "nav-js": "^1.2.2",
     "ngx-bootstrap": "^5.3.2",
     "nivo": "^0.31.0",
